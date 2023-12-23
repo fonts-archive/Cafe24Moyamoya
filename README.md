@@ -1,4 +1,4 @@
-# Cafe24Moyamoya
+# Cafe24 Moyamoya
 
 [Visit Source](https://fonts.cafe24.com/)
 
